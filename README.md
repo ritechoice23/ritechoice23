@@ -7,7 +7,7 @@
 ### 👋 Hey there! I'm Daramola Babatunde Ebenezer, a full-stack web developer and software engineer for more than a decade with vast experience in PHP, Laravel, JavaScript, and Vue.js.
 
 ## Currently
-- ⚡ Working as a Full stack Software Engineer at [Landmark University](https://lmu.edu.ng/)
+- ⚡ Working as a full stack software engineer at [Landmark University](https://lmu.edu.ng/)
 - ⚡ Teaching people how to code [My YouTube Channel](https://www.youtube.com/@ritechoiceacademy)
 - 🌱 learning GoLang 
 - ❓ Ask me about anything related to PHP, Laravel, JavaScript, Vue.js, MYSQL, PgSQL and related technologies  
