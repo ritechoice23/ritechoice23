@@ -4,7 +4,7 @@
   
 
 
-### 👋 Hey there! I'm Daramola Babatunde Ebenezer, a software engineer and educator who has been in web development for more than a decade.
+### 👋 Hey there! I'm Daramola Babatunde Ebenezer, a full-stack web developer and software engineer for more than a decade with vast experience in PHP, Laravel, JavaScript, React, and Vue.js.
 
 ## Currently
 - ⚡ Working as a Full stack Software Engineer at [Landmark University](https://lmu.edu.ng/)
