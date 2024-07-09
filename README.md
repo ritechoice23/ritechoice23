@@ -88,8 +88,7 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ritechoice23&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Github Stats    
 <a href="https://github.com/ritechoice23/ritechoice23">
   <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritechoice23&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -98,12 +97,6 @@
 </a>  
 <br/>  
 
-<details><summary> Visitor Counter </summary><div align="center">
-<img src="https://komarev.com/ghpvc/?username=ritechoice23&&style=flat-square" align="center" />
-</div>  
-</details>  
-
-<br/>  
 
 <div align="center"></div>  
 
@@ -118,3 +111,14 @@
     </a>
 </div>
 </p>
+
+
+<details>
+  <summary> Visitor Counter </summary>
+  <div align="center">
+<img src="https://komarev.com/ghpvc/?username=ritechoice23&&style=flat-square" align="center" />
+</div>  
+</details>  
+
+<br/>  
+
