@@ -4,7 +4,7 @@
   
 
 
-### 👋 Hey there! I'm Daramola Babatunde Ebenezer, a software engineer and educator who has been in web development for over a decade.
+### 👋 Hey there! I'm Daramola Babatunde Ebenezer, a software engineer and educator who has been in web development for more than a decade.
 
 ## Currently
 - ⚡ Working as a Full stack Software Engineer at [Landmark University](https://lmu.edu.ng/)
