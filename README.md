@@ -87,15 +87,27 @@
 <br/>  
 
 
+## Github Stats    
+<a href="https://github.com/ritechoice23/ritechoice23">
+  <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritechoice23&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/ritechoice23/ritechoice23">
+  <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=ritechoice23&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Daramola Babatunde's GitHub Stats" />
+</a>  
+<br/>  
 
 
-
-<details>
-  <summary> Visitor Counter </summary>
-  <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ritechoice23&&style=flat-square" align="center" />
-</div>  
-</details>  
+<div align="center"></div>  
 
 <br/>  
+
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+
+<p align="center">
+<div align=center>
+  <a href="https://github.com/ritechoice23" title="Go to Profile">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=ritechoice23&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+</p> 
 
