@@ -10,7 +10,6 @@
 - ⚡ Working as a full stack software engineer at [Landmark University](https://lmu.edu.ng/)
 - ⚡ Teaching people how to code [My YouTube Channel](https://www.youtube.com/@ritechoiceacademy)
 - 🌱 learning GoLang
-- ⚡ Building [Zionstack](https://zionstack.com/) , [Engafy](https://engafy.com/)
 - ❓ Ask me about anything related to PHP, Laravel, JavaScript, React, JS, Node, MYSQL, PgSQL, and related technologies  
   
 <br/>  
