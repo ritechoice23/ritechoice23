@@ -8,7 +8,7 @@
 
 ## Currently
 - ⚡ Working as a full stack software engineer at [Landmark University](https://lmu.edu.ng/)
-- ⚡ Teaching people how to code [My YouTube Channel](https://www.youtube.com/@ritechoiceacademy)
+- ⚡ Teaching people how to code [My YouTube Channel](https://www.youtube.com/@ritechoice24)
 - 🌱 learning GoLang
 - ❓ Ask me about anything related to PHP, Laravel, JavaScript, ReactJS, NodeJS, MYSQL, PgSQL, and related technologies  
   
