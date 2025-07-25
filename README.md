@@ -8,7 +8,7 @@
 
 ## Currently
 - ⚡ Working as a full-stack software engineer, building stuff
-- ⚡ Teaching people how to code [My YouTube Channel](https://www.youtube.com/@ritechoiceacademy)
+- ⚡ Teaching people how to code.
 - 🌱 learning Golang
 - ❓ Ask me about anything related to PHP, Laravel, JavaScript, TypeScript, ReactJS, NextJS, NodeJS, MySQL, PostgreSQL, and related technologies  
   
