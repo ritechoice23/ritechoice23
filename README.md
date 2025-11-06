@@ -20,5 +20,5 @@ Golang
 
 ## Connect
 
-[GitHub](https://github.com/ritechoice23) • [Twitter](https://twitter.com/@ritechoice23) • [Hashnode](https://hashnode.com/@ritechoice23) • [YouTube](https://www.youtube.com/user/@ritechoiceacademy)
+[GitHub](https://github.com/ritechoice23) • [Twitter](https://twitter.com/@ritechoice23) • [Hashnode](https://hashnode.com/@ritechoice23) • [YouTube](https://www.youtube.com/user/@ritechoicecodes)
 
