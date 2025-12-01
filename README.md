@@ -10,15 +10,11 @@ Full-stack software engineer with 10+ years building scalable web applications.
 
 ## Tech Stack
 
-**Frontend:** JavaScript, TypeScript, React, Next.js, Vue.js, Tailwind CSS  
-**Backend:** PHP, Laravel, Node.js, PostgreSQL, MySQL  
-**Tools:** Linux, AWS, Git, Bash
+**Frontend:** JavaScript, TypeScript, React, Tailwind CSS  
+**Backend:** PHP, Laravel, Node.js, PostgreSQL, MySQL, MongoDB
+**Tools:** Linux, AWS, DigitalOcean, Git, Bash
 
-## Currently Learning
+## Let's Connect
 
-Golang
-
-## Connect
-
-[GitHub](https://github.com/ritechoice23) • [Twitter](https://twitter.com/@ritechoice23) • [Hashnode](https://hashnode.com/@ritechoice23) • [YouTube](https://www.youtube.com/user/@ritechoicecodes)
+[GitHub](https://github.com/ritechoice23) • [LinkedIn](https://www.linkedin.com/in/ritechoice23/) • [X/Twitter](https://twitter.com/@ritechoice23)  • [YouTube](https://www.youtube.com/user/@ritechoicecodes)
 
